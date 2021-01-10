@@ -27,7 +27,7 @@ url: "http://lindsaythomas.net/eng380s21" # the base hostname & protocol for you
 markdown: kramdown
 # theme: minima
 # theme: jekyll-theme-cayman
-theme: "just-the-docs"
+# theme: "just-the-docs"
 remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
