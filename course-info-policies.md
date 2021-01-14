@@ -25,7 +25,7 @@ All books are available via the UM bookstore or the links below. You can order y
 ### Recommended:
 We will also read a significant portion of the below novel. To keep total costs under $100 (the novel is only available in hardcover right now), and because we will not read all of the novel, I will make the selections we read in class available to you as pdfs. But you may prefer to purchase the entire novel:
 
-* Ayad Akhtar, Homeland Elegies: A Novel, 2020 (ISBN-13: 978-0316496421)
+* Ayad Akhtar, *Homeland Elegies: A Novel*, 2020 (ISBN-13: 978-0316496421)
     * Available at [Books and Books](https://shop.booksandbooks.com/book/9780316496421){:target="_blank"} locally or via [Amazon](https://www.amazon.com/Homeland-Elegies-Novel-Ayad-Akhtar/dp/0316496421/ref=sr_1_1?crid=EF5MKL6299F9&dchild=1&keywords=homeland+elegies+ayad+akhtar&qid=1609714220&s=books&sprefix=Homeland+e%2Cstripbooks%2C176&sr=1-1){:target="_blank"}
 
 We will refer to the assigned reading every single day in class, and we will often read passages aloud together. Make sure you have the assigned reading available to you to reference every day during class.
