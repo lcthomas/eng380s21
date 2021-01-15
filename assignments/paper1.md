@@ -5,7 +5,7 @@ nav_order: 2
 parent: Assignments
 ---
 # Paper 1: September 11 Interview and Reflection -- 20%
-[Download a pdf of the assignment here](https://lindsaythomas.net/eng380s21/assignments/eng380s21-paper1){:target="_blank"}
+[Download a pdf of the assignment here](https://lindsaythomas.net/eng380s21/assignments/eng380s21-paper1.pdf){:target="_blank"}
 * **Due Friday, March 5**
 * **Interview questions (.docx or pdf) + ~30-min interview transcript (.docx or .txt or pdf) + 1200-1500 word (~4-5 page) reflection (.docx or pdf)**
     * **You will need to name your interview subject as part of response paper 2, due Friday, Feb 19.**
