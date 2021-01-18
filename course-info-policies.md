@@ -45,8 +45,8 @@ After each synchronous class meeting, you will have until our next synchronous c
 * Participation: 20%
 * Response papers: 20%
 * Paper 1: 20%
-* Paper 2: 25%
-* Final project: 15%
+* Paper 2: 15%
+* Final project: 25%
 
 Additional details on all course assignments can be found via the “Assignments” page on our course website.
 
