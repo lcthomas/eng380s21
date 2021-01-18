@@ -55,7 +55,7 @@ Monday, February 22
 * Judith Butler, “Torture and the ethics of photography,” *Environment and Planning D: Society and Space* vol. 25 (2007): 951-966 (GD)
 
 Wednesday, February 24
-* *Homeland* episodes, “Pilot,” Season 1, episode 1 (2011); “Crossfire,” Season 1, episode 9 (2011) 
+* *Homeland* episodes, “Pilot,” Season 1, episode 1 (2011); “Crossfire,” Season 1, episode 9 (2011)
 
 ### Week 6
 Monday, March 1
@@ -129,11 +129,11 @@ Monday, April 19
 * Christina Sharpe, *In the Wake* (2016), pgs 13-16 (GD)
 
 Wednesday, April 21
-* Discussion of final projects
+* Claudia Rankine, *Citizen* (2014), VI-VII (pgs 81-end)
 
 Week 14
 Monday, April 26
-* Claudia Rankine, *Citizen* (2014), VI-VII (pgs 81-end)
+* Discussion of final projects
 
 Wednesday, April 28
 * Wrap-up
