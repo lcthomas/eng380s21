@@ -7,12 +7,12 @@ parent: Assignments
 # Paper 1: September 11 Interview and Reflection -- 20%
 [Download a pdf of the assignment here](https://lindsaythomas.net/eng380s21/assignments/eng380s21-paper1.pdf){:target="_blank"}
 * **Due Friday, March 5**
-* **Interview questions (.docx or pdf) + ~30-min interview transcript (.docx or .txt or pdf) + 1200-1500 word (~4-5 page) reflection (.docx or pdf)**
+* **Interview questions (.docx or pdf) + ~30-min interview transcript (.docx or .txt or pdf) + 1000-1500 word (~4 page) reflection (.docx or pdf)**
     * **You will need to name your interview subject as part of response paper 2, due Friday, Feb 19.**
 * **MLA/Chicago citation style**
 * **Turn in via the “Paper 1” portal on Blackboard Assignments page. You should turn in your interview questions, your interview transcript and your reflection paper via this portal.**
 
-The first unit of our course will focus on memory, trauma, and narrative as they relate to September 11, 2001 and the war on terror. Paper 1 asks you to incorporate (someone else’s) personal experience into your reflections on these concepts. For this assignment, you will interview someone who remembers the events of September 11, 2001 and then write a ~1200-1500-word reflection on the interview, connecting it explicitly to at least one text we have read or watched so far in class.
+The first unit of our course will focus on memory, trauma, and narrative as they relate to September 11, 2001 and the war on terror. Paper 1 asks you to incorporate (someone else’s) personal experience into your reflections on these concepts. For this assignment, you will interview someone who remembers the events of September 11, 2001 and then write a ~1000-1500-word reflection on the interview, connecting it explicitly to at least one text we have read or watched so far in class.
 
 ## Conducting the interview
 The first step is to interview someone who remembers the events of September 11, 2001. This can be an older relative or friend, a colleague, etc -- the only criteria is that they personally remember the events of September 11, 2001 and their aftermath (if you remember September 11, 2001, you should still find someone else to interview). You should aim to interview your subject for about 30 minutes. We will take some time during class on Monday, Feb 22 to brainstorm specific questions that you might ask your interviewee, but the main focus of your interview should be their memories of September 11, 2001 and its aftermath. If your interviewee would prefer to remain anonymous, that is ok (in this case, give them a pseudonym).
@@ -35,9 +35,9 @@ Finally, I would really, really prefer that you interview someone other than me 
 You will name who you plan to interview as part of response paper 2, due Friday, Feb 19.
 
 ## Writing your reflection
-After conducting your interview, you will write a 1200-1500-word (~4-5 double-spaced pages) reflection on the interview and its relationship to at least one text from our course. You can organize this reflection however you wish, but it should include the following elements:
+After conducting your interview, you will write a 1000-1500-word (~4 double-spaced pages) reflection on the interview and its relationship to at least one text from our course. You can organize this reflection however you wish, but it should include the following elements:
 
-1.	A brief summary/synthesis of the interview and/or the interviewee. Who did you interview (again, you may use a pseudonym if your subject prefers)? How old were they on September 11, 2001? Where were they living? Why did you elect to interview them? Etc. Anything you deem pertinent to contextualizing your interview should be included here. The idea is to provide your reader with basic facts about and/or a description of the interview and your interviewee. You should set the scene, as it were. This part of your reflection should be brief -- around ~1 page.
+1.	A brief summary/synthesis of the interview and/or the interviewee. Who did you interview (again, you may use a pseudonym if your subject prefers)? How old were they on September 11, 2001? Where were they living? Why did you elect to interview them? Etc. Anything you deem pertinent to contextualizing your interview should be included here. The idea is to provide your reader with basic facts about and/or a description of the interview and your interviewee. You should set the scene, as it were. This part of your reflection should be brief -- no more than ~1 page.
 2.	Analysis of your interview and its relationship to at least 1 text from our course (“text” means any course material, including TV episodes). For this part of your reflection, you should think of the interview you conducted as another example of a September 11 narrative -- like the ones we have read in class -- and you should compare/contrast it to at least 1 text from our class. To get you started on this part of your reflection, you might think about answering some of the following questions (this list is not exhaustive):
     - What did you find surprising or unexpected about the interview, based on what we have read and discussed so far in class?
     - As a September 11 narrative, how does the interview compare to at least one of the September 11 narratives we have read in class?
