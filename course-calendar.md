@@ -31,7 +31,7 @@ Monday, February 8
 * Jonathan Safran Foer, *Extremely Loud and Incredibly Close* (2005), pgs 1-85 (What The?; Why I’m Not Where You Are: 5/21/63; Googolplex; My Feelings)
 
 Wednesday, February 10
-* Jonathan Safran Foer, *Extremely Loud and Incredibly Close* (2005), pgs 86-173 (The Only Animal; Why I’m Not Where You Are: 5/21/63; Heavy Boots Heavier Boots)
+* Jonathan Safran Foer, *Extremely Loud and Incredibly Close* (2005), pgs 86-173 (The Only Animal; Why I’m Not Where You Are: 5/21/63; ~~Heavy Boots~~ Heavier Boots)
 
 Friday, February 12
 * **Response paper 1 due**
