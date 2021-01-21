@@ -5,13 +5,14 @@ nav_order: 3
 parent: Assignments
 ---
 # Paper 2: What is "Post-9/11" Literature and/or Culture? -- 15%
+[Download a pdf of the assignment here](https://lindsaythomas.net/eng380s21/assignments/eng380s21-paper2.pdf){:target="_blank"}
 * **Due Friday, April 16**
      * **You will turn in your central question for paper 2 as part of response paper 4, due Friday, April 2**
 * **1000-1500 words (~4-5 pages double-spaced)**
 * **MLA/Chicago style**
 * **Turn in via the “Paper 2” portal on Blackboard Assignments page.**
 
-This paper asks you to use 1 text we have read or watched in class to make an argument about one aspect of “post-9/11” literature and/or culture. The only other stipulation is that the text you write about should not be the text you discussed in paper 1. In general, you will focus in this paper on how this text explores, complicates or questions a given cultural, political, philosophical, or psychological issue you see as important to understanding “post-9/11” literature and/or culture in the United States.
+This paper asks you to use one text we have read or watched in class to make an argument about one aspect of “post-9/11” literature and/or culture. The only other stipulation is that the text you write about should not be the text you discussed in paper 1. In general, you will focus in this paper on how this text explores, complicates or questions a given cultural, political, philosophical, or psychological issue you see as important to understanding “post-9/11” literature and/or culture in the United States.
 
 This paper should be self-contained. However, it will lead into your final project, which will entail a revision and expansion of this paper. Your eventual goal in your final project will be to incorporate another text into your argument, either Claudia Rankine’s *Citizen* OR one that you bring in from outside of class.
 
