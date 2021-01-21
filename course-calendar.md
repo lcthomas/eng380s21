@@ -38,6 +38,7 @@ Friday, February 12
 
 ### Week 4
 Monday, February 15
+* Read through your teammate's response papers.
 * Jonathan Safran Foer, *Extremely Loud and Incredibly Close* (2005), pgs 174-261 (My Feelings; Happiness, Happiness; Why I’m Not Where You Are: 4/12/78; The Sixth Borough; My Feelings; Alive and Alone)
 
 Wednesday, February 17
