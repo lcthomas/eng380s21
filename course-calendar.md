@@ -88,12 +88,12 @@ Friday, March 19
 ### Week 9
 Monday, March 22
 * Mohsin Hamid, *Exit West* (2017), Chapters 10-12 (pgs 193-231)
-* White House, “Executive Order Protecting the Nation from Foreign Terrorist Entry into the United States,” March 6, 2017, <https://www.whitehouse.gov/presidential-actions/executive-order-protecting-nation-foreign-terrorist-entry-united-states-2/>
+* White House, “Executive Order Protecting the Nation from Foreign Terrorist Entry into the United States,” March 6, 2017 (GD)
 * Center for Migration Studies of New York, “President Trump’s Executive Orders on Immigration and Refugees,” originally posted in 2017, <https://cmsny.org/trumps-executive-orders-immigration-refugees/>
 
 Wednesday, March 24
 * Selections from Select Bipartisan Committee to Investigate the Preparation for and Response to Hurricane Katrina, *A Failure of Initiative* (2006) (GD)
-* Nicholas Lemann, “Why Hurricane Katrina was not a Natural Disaster,” The New Yorker, Aug 26, 2020, <https://www.newyorker.com/books/under-review/why-hurricane-katrina-was-not-a-natural-disaster>
+* Nicholas Lemann, “Why Hurricane Katrina was not a Natural Disaster,” The New Yorker, Aug 26, 2020 (GD)
 
 ### Week 10
 Monday, March 29
