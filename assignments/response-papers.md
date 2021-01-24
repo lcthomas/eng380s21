@@ -18,6 +18,7 @@ I grade all response papers on completion (on a 10-point scale). If you complete
 ---
 ## Response Paper 1
 * **Due Friday, Feb 12**
+* **Your pattern + 1-2 paragraphs**
 * **Turn in to your team's folder in our class Google drive folder -- .docx or Google docs format**
 
 This response paper is all about how to observe a text, specifically Foer's *Extremely Loud and Incredibly Close*. Your task will be twofold:
@@ -27,11 +28,20 @@ This response paper is all about how to observe a text, specifically Foer's *Ext
     2. Format. How Foer organizes some pages in this novel is important. Do certain visual or structural elements repeat? What about the images? How do they relate to the text? What about the visual organization of words on particular pages? Do you see anything there?
     3. Structure and organization. How has Foer organized the novel? Do certain chapter titles or other elements repeat? Do some things about the structure or organization of the novel seem out of place or unexpected?
 
-2. Write 1-2 paragraphs about what you see as significant about your pattern. What might this pattern mean in the context of the novel as a whole? You should focus your reflections here not on observations about or summaries of the plot or the "lessons" of the novel, but rather on what you see as the import of Foer's aesthetic choices, as they are revealed by the pattern you have observed. How does the pattern you have observed contribute to larger ideas or concepts in the novel? It's ok if you can't come to any definite conclusions, but you should strive to start to unpack the novel's complexity here (i.e., show your readers how complicated the novel actually is, how weird language is, etc), **not** to deliver a pat interpretation we have already discussed in detail in class or derive a moral lesson from the text.
+2. Write ~1-2 paragraphs in which you begin to brainstorm some ideas about why your pattern matters. What might this pattern mean in the context of the novel as a whole? You should focus your reflections here not on observations about or summaries of the plot or the "lessons" of the novel, but rather on what you see as the import of Foer's aesthetic choices, as they are revealed by the pattern you have observed. How does the pattern you have observed contribute to larger ideas or concepts in the novel? I'm not expecting definite conclusions or fully fleshed out arguments here. Rather, I want you to practice wondering about the text as an aesthetic object. You might think about it this way: What does your pattern *mean*? And how many different possible answers to that question can you come up with?
 
 After completing your response paper, you will upload it to your team's folder in our class Google drive folder. In class on Monday, Feb 15, you will spend time with your teammates talking through the patterns you observed. You will use this work as the basis for response paper 2 (see below). I will not leave individual comments on your response paper this time around; I will simply check that you have completed the assignment.
 
 ## Response Paper 2
+* **Due Friday, February 19**
+* **Your pattern + 500-750 words (1.5-2 double spaced pages)**
+* **Turn in via the "Response Paper 2" portal on Blackboard Assignments page**
+
+In this response paper, you will consider a pattern in Foer's *Extremely Loud and Incredibly Close* in more detail. You will select 1 pattern to discuss. This can be the pattern you wrote about in your first response paper, or it can be a pattern one of your teammates wrote about, it can be a revised version of either, or it can be a completely new pattern. Once you've selected your pattern, here's what you do:
+
+1. As you did for your first response paper, list the individual observations that comprise your pattern. Regardless of the pattern you choose, you should seek to add at least 1-2 more individual observations to that pattern from the second half of the novel. Your list should include a brief summary of your pattern, each separate observation (quote directly from the novel where possible and/or describe each separate observation, including where it begins and ends), and the page number(s) of each observation. You should be as specific and as precise as possible when reporting your observations.
+
+2. Write 500-750 words in which you discuss what is important or significant about your pattern. Why does your pattern matter in the context of the novel as a whole? What does your pattern allow us to see or to know about the novel? You might think about it this way: Once you noticed your pattern, what did it cause you to understand differently about the novel? How did it surprise you?
 
 ## Response Paper 3
 
