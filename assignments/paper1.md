@@ -8,7 +8,7 @@ parent: Assignments
 [Download a pdf of the assignment here](https://lindsaythomas.net/eng380s21/assignments/eng380s21-paper1.pdf){:target="_blank"}
 * **Due Friday, March 5**
 * **Interview questions (.docx or pdf) + ~30-min interview transcript (.docx or .txt or pdf) + 1000-1500 word (~4 page) reflection (.docx or pdf)**
-    * **You will need to name your interview subject as part of response paper 2, due Friday, Feb 19.**
+    * **You will need to name your interview subject by Friday, Feb 26**
 * **MLA/Chicago citation style**
 * **Turn in via the “Paper 1” portal on Blackboard Assignments page. You should turn in your interview questions, your interview transcript and your reflection paper via this portal.**
 

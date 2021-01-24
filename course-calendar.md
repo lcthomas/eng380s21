@@ -58,6 +58,9 @@ Monday, February 22
 Wednesday, February 24
 * *Homeland* episodes, “Pilot,” Season 1, episode 1 (2011); “Crossfire,” Season 1, episode 9 (2011)
 
+Friday, February 26
+* Email me with the name of the person you will be interviewing for Paper 1
+
 ### Week 6
 Monday, March 1
 * Mohamedou Ould Slahi, ed. Larry Siems, *Guantánamo Diary* (2016), “Note on the Text and Annotations of the Restored Edition” (by Siems); and Ch. One “Jordan-Afghanistan-GTMO: July 2002-February 2003” (by Slahi) (GD)
