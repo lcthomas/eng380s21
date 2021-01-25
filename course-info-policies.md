@@ -95,6 +95,9 @@ Participation makes up 20% of your grade in this class. It is assessed on the fo
 
 This semester is going to be hard and taxing for all of us. I recognize that many of you simply want things to go back to normal. I do, too -- desperately. Unfortunately, this is not possible right now. If there is something happening in your life that is affecting your work in this class and you feel comfortable talking to me about it, please do so. I am on your side and I want to work with you, not against you. I will extend the benefit of the doubt to you, and I ask that you please extend it to others in the class in turn.
 
+## Teams
+We are a large-ish online class. To help you meet other students in the class and to give you more opportunities to participate in discussion with a smaller group, at the beginning of the semester, you will be split into teams of 4-5 (I will split you randomly into these teams using Zoom's breakout groups feature). When we do group activities during class (on average about once per week, but sometimes less), you will get into your teams and work with your teammates on these activities. You will also work with your teammates on response papers 1 and 2. About halfway through the semester, we will decide as a class if we want to switch up the teams or not.
+
 ## Zoom Etiquette
 Our class sessions will be conducted over Zoom. During class sessions, I ask that you please mute your microphone unless you are speaking. The university recommends that I require you to turn on your video during class, but I find that requirement distasteful. While I strongly encourage you to turn your video on if possible because I would like to be able to see your face, I do not feel it is my place to require it, and wifi connection issues can sometimes make it impossible.
 
