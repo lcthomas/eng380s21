@@ -6,7 +6,7 @@ nav_order: 1
 # Contemporary Literature: U.S. Literature and Culture after 9/11
 
 ## Spring 2021
-MW 3:35-4:50 pm<br>
+MW 3:30-4:45 pm<br>
 Online only
 
 ## Professor Lindsay Thomas
