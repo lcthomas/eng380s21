@@ -24,6 +24,8 @@ Monday, February 1
 * Leti Volpp, “The Citizen and the Terrorist,” *UCLA Law Review*, vol. 49 (June 2002): 1575-1600 (GD)
 
 Wednesday, February 3
+* Selections from the *The 9/11 Commission Report*
+    * I've extracted the first 14 pages of this report and placed them in our course readings folder in Google drive. Please read pages 1-8 (until "The Hijacking of American 77") and skim the rest.
 * DeLillo, “In the Ruins of the Future: Reflections on Terror and Loss in the Shadow of September,” *Harper’s Magazine* (Dec 2001) (GD)
 
 ### Week 3
