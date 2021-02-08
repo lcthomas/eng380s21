@@ -34,6 +34,7 @@ Monday, February 8
 
 Wednesday, February 10
 * Jonathan Safran Foer, *Extremely Loud and Incredibly Close* (2005), pgs 86-173 (The Only Animal; Why I’m Not Where You Are: 5/21/63; <strike>Heavy Boots</strike> Heavier Boots)
+* "David Foster Wallace -- The Problem with Irony," Will Schoder (9:54 min), <https://www.youtube.com/watch/2doZROwdte4>
 
 Friday, February 12
 * **Response paper 1 due**
