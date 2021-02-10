@@ -77,7 +77,7 @@ Friday, March 5
 ### Week 7
 Monday, March 8
 * Review Volpp
-* Ayad Akhtar, *Homeland Elegies: A Novel* (2020), “Overture: To America,” II., “On Autobiography; or, Bin Laden” (GD)
+* Ayad Akhtar, *Homeland Elegies: A Novel* (2020), “Overture: To America,” I. “On the Anniversary of Trump’s First Year in Office,” II., “On Autobiography; or, Bin Laden” (GD)
 
 Wednesday, March 10
 * Ayad Akhtar, *Homeland Elegies: A Novel* (2020), IV. “God’s Country” (GD)
@@ -123,7 +123,7 @@ Wednesday, April 7
 
 ### Week 12
 Monday, April 12
-* Ayad Akhtar, *Homeland Elegies: A Novel* (2020), I. “On the Anniversary of Trump’s First Year in Office,” V. “Riaz; or, The Merchant of Debt” (GD)
+* Ayad Akhtar, *Homeland Elegies: A Novel* (2020), V. “Riaz; or, The Merchant of Debt” (GD)
 
 Wednesday, April 14: “Wellness Wednesday,” NO CLASS
 
