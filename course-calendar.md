@@ -119,12 +119,15 @@ Monday, April 5
 * Jesmyn Ward, *Salvage the Bones* (2011), pgs 177-262 (The Ninth Day through The Twelfth Day, please also read “Living through a Category Five Hurricane”, pgs 261-262)
 
 Wednesday, April 7
-* *Hustlers* (2019), dir. Lorene Scafaria
-    * Available to rent on [FandangoNow](https://www.fandangonow.com/details/movie/MMVCB5FD64A1405448A1E9ECE49BB6A0C19E?cjid=cj_13608488_8484082_29c556c06c844168b82786914785e951&cjevent=ee93e0c24eaa11eb81420d6b0a24060d){:target="_blank"} for $2.99. Also available on Showtime streaming and DIRECTV. Available for purchase (but not to rent) on Amazon.
+* *Salvage the Bones* wrap-up
 * John Lanchester, “After the Fall,” *London Review of Books* 40.13 (July 2018) (GD)
 
 ### Week 12
 Monday, April 12
+* *Hustlers* (2019), dir. Lorene Scafaria
+    * Available to rent on [FandangoNow](https://www.fandangonow.com/details/movie/MMVCB5FD64A1405448A1E9ECE49BB6A0C19E?cjid=cj_13608488_8484082_29c556c06c844168b82786914785e951&cjevent=ee93e0c24eaa11eb81420d6b0a24060d){:target="_blank"} for $2.99. Also available on Showtime streaming and DIRECTV. Available for purchase (but not to rent) on Amazon.
+
+**I have removed the below reading from our schedule and we will no longer be discussing it in class. However, the reading is still in our course readings folder and I've kept this information here in case you are interested in reading it.**
 * Ayad Akhtar, *Homeland Elegies: A Novel* (2020), V. “Riaz; or, The Merchant of Debt” (GD)
 
 Wednesday, April 14: “Wellness Wednesday,” NO CLASS
