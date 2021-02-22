@@ -90,9 +90,6 @@ Monday, March 15
 Wednesday, March 17
 * Mohsin Hamid, *Exit West* (2017), Chapters 6-9 (pgs 101-189)
 
-Friday, March 19
-* **Response paper 3 due**
-
 ### Week 9
 Monday, March 22
 * Mohsin Hamid, *Exit West* (2017), Chapters 10-12 (pgs 193-231)
@@ -102,6 +99,9 @@ Monday, March 22
 Wednesday, March 24
 * Selections from Select Bipartisan Committee to Investigate the Preparation for and Response to Hurricane Katrina, *A Failure of Initiative* (2006) (GD)
 * Nicholas Lemann, “Why Hurricane Katrina was not a Natural Disaster,” The New Yorker, Aug 26, 2020 (GD)
+
+Friday, March 26
+* **Response paper 3 due**
 
 ### Week 10
 Monday, March 29
