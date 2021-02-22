@@ -145,10 +145,11 @@ Wednesday, April 21
 
 Week 14
 Monday, April 26
+* *Citizen* wrap-up
 * Discussion of final projects
 
 Wednesday, April 28
-* Wrap-up
+* Course wrap-up
 * **Response paper 5 due: final project abstract**
 
 **Final project due during finals week**
