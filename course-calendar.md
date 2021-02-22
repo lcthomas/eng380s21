@@ -61,6 +61,7 @@ Monday, February 22
 Wednesday, February 24
 * *Homeland* episodes, “Pilot,” Season 1, episode 1 (2011); “Crossfire,” Season 1, episode 9 (2011)
     * Available [to rent on Amazon for $2.99 an episode](https://www.amazon.com/Homeland-Season-1/dp/B008QTV3X0){:target="_blank"}. Also available via a Showtime streaming subscription.
+    * If you want to try to connect the dots between these two episodes and get a sense of the plot of season 1 of the show, [you can read this recap of season 1 published in 2012 in *Rolling Stone*.](https://www.rollingstone.com/movies/movie-news/homeland-cheat-sheet-what-you-need-to-know-for-season-two-79120/) Obviously, this contains a lot of spoilers. But it will give you a sense of how people were talking about the show at the height of its popularity. (This reading is recommended, not required)
 
 Friday, February 26
 * **Email me with the name of the person you will be interviewing for Paper 1**
