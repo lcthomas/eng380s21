@@ -69,6 +69,7 @@ Friday, February 26
 ### Week 6
 Monday, March 1
 * Mohamedou Ould Slahi, ed. Larry Siems, *Guantánamo Diary* (2016), “Note on the Text and Annotations of the Restored Edition” (by Siems); and Ch. One “Jordan-Afghanistan-GTMO: July 2002-February 2003” (by Slahi) (GD)
+    * In Ch. One, read pages 3-45, skim pgs 45-60, read pgs 60-69
 
 Wednesday, March 3: “Wellness Wednesday,” NO CLASS
 
