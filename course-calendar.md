@@ -79,7 +79,6 @@ Friday, March 5
 ## Unit 2: Citizenship and Belonging post-9/11
 ### Week 7
 Monday, March 8
-* Review Volpp
 * Ayad Akhtar, *Homeland Elegies: A Novel* (2020), “Overture: To America,” I. “On the Anniversary of Trump’s First Year in Office,” II., “On Autobiography; or, Bin Laden” (GD)
 
 Wednesday, March 10
