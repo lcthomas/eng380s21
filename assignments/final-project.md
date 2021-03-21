@@ -4,7 +4,7 @@ title: Final Project
 nav_order: 4
 parent: Assignments
 ---
-# Final Project -- 25%
+# Final Project -- 30%
 * **Due during finals week**
     * **You will bring a copy of your final project abstract to class on Monday, April 26**
      * **You will turn in your final project abstract as part of response paper 5, due Wednesday, April 28**

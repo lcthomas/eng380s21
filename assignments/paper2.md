@@ -4,7 +4,7 @@ title: Paper 2
 nav_order: 3
 parent: Assignments
 ---
-# Paper 2: What is "Post-9/11" Literature and/or Culture? -- 15%
+# Paper 2: What is "Post-9/11" Literature and/or Culture? -- 10%
 [Download a pdf of the assignment here](https://lindsaythomas.net/eng380s21/assignments/eng380s21-paper2.pdf){:target="_blank"}
 * **Due Friday, April 16**
      * **You will turn in your central question for paper 2 as part of response paper 4, due Friday, April 2**
