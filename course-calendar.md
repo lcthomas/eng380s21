@@ -119,7 +119,7 @@ Monday, April 5
 * Jesmyn Ward, *Salvage the Bones* (2011), pgs 177-262 (The Ninth Day through The Twelfth Day, please also read “Living through a Category Five Hurricane”, pgs 261-262)
 
 Wednesday, April 7: CLASS CANCELLED
-Unfortunately, I need to cancel class on this day. Please read the below reading and watch the accompanying mini-lecture instead. I will post instructions about how to access the lecture recording once it's available.
+* Unfortunately, I need to cancel class on this day. Please read the below reading and watch the accompanying mini-lecture instead. I will post instructions about how to access the lecture recording once it's available.
 * John Lanchester, “After the Fall,” *London Review of Books* 40.13 (July 2018) (GD)
 * Watch mini-lecture by Prof Thomas
 
