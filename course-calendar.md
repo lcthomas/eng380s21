@@ -151,6 +151,6 @@ Monday, April 26
 
 Wednesday, April 28
 * Course wrap-up
-* **Response paper 5 due: final project abstract**
+* **Response paper 5 CANCELLED: You will receive a 10/10 on this assignment. Happy end of the semester!**
 
 **Final project due during finals week**

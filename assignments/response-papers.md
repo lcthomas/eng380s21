@@ -70,3 +70,5 @@ In this response paper, you will repeat what you did for response paper 3, in a 
 3. Then, write ~1-2 paragraphs about your question and your selected passage. How does this passage relate to your question? You do not need to have any answers or arguments here (though you will for paper 2), and this response paper doesn't commit you to anything (you can always change your mind). But you should use this as an opportunity to begin to explore the ideas you want to discuss in paper 2. As always, you should strive to locate evidence for your ideas specifically in the text. When you write paper 2, every claim you make about the text will need to be backed up with specific textual evidence. Start practicing that now.
 
 ## Response Paper 5
+
+I've decided to cancel response paper 5: everyone will get a 10/10 grade on this assignment.
