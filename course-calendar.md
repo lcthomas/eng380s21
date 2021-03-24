@@ -106,6 +106,7 @@ Friday, March 26
 
 ### Week 10
 Monday, March 29
+* Read your teammates' response papers (response paper 3)
 * Jesmyn Ward, *Salvage the Bones* (2011), pgs 1-107 (The First Day through The Fifth Day)
 
 Wednesday, March 31
