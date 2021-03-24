@@ -150,7 +150,8 @@ Monday, April 26
 * Final paper workshop: bring paper 2 with comments from me to class
 
 Wednesday, April 28
-* Course wrap-up, course evals
+* Final paper workshop
+* Course evals
 * **Response paper 5 CANCELLED: You will receive a 10/10 on this assignment. Happy end of the semester!**
 
 **Final project due by the end of the day Monday, May 10**
