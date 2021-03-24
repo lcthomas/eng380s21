@@ -147,11 +147,10 @@ Wednesday, April 21
 
 Week 14
 Monday, April 26
-* *Citizen* wrap-up
-* Discussion of final projects
+* Final paper workshop: bring paper 2 with comments from me to class
 
 Wednesday, April 28
-* Course wrap-up
+* Course wrap-up, course evals
 * **Response paper 5 CANCELLED: You will receive a 10/10 on this assignment. Happy end of the semester!**
 
-**Final project due during finals week**
+**Final project due by the end of the day Monday, May 10**
