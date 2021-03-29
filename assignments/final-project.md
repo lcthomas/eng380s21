@@ -7,7 +7,7 @@ parent: Assignments
 # Final Project -- 30%
 [Download a pdf of the assignment here](https://lindsaythomas.net/eng380s21/assignments/eng380s21-finalproject.pdf){:target="_blank"}
 * **Due Monday, May 10**
-    * **We will hold an in-class workshop devoted to the final project on Monday, April 26**
+    * **We will hold in-class workshops devoted to the final project on Monday, April 26 and Wednesday, April 28**
     * **If you decide to completely abandon paper 2 and start over, you must email me with a re-do of response paper 4 by Friday, April 30**
 * **2000-2500 words (~7-8 pages double-spaced)**
 * **MLA/Chicago style**
