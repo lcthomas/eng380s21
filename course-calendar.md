@@ -122,12 +122,12 @@ Monday, April 5
 Wednesday, April 7: CLASS CANCELLED
 * Unfortunately, I need to cancel class on this day. Please read the below reading and watch the accompanying mini-lecture instead. I will post instructions about how to access the lecture recording once it's available.
 * John Lanchester, “After the Fall,” *London Review of Books* 40.13 (July 2018) (GD)
-* Watch mini-lecture by Prof Thomas
+* Watch mini-lecture by Prof Thomas: This mini-lecture is available via our Blackboard site. Select Class Meeting Zoom > Cloud Recordings > "April 7 class mini lecture" (the lecture was recorded April 4).
 
 ### Week 12
 Monday, April 12
 * *Hustlers* (2019), dir. Lorene Scafaria
-    * Available to rent on [FandangoNow](https://www.fandangonow.com/details/movie/MMVCB5FD64A1405448A1E9ECE49BB6A0C19E?cjid=cj_13608488_8484082_29c556c06c844168b82786914785e951&cjevent=ee93e0c24eaa11eb81420d6b0a24060d){:target="_blank"} for $2.99. Also available on Showtime streaming and DIRECTV. Available for purchase (but not to rent) on Amazon.
+    * *Hustlers* is no longer available to rent on Fandango (you can still purchase it there). Here is [a list of places where it is available to stream](https://www.justwatch.com/us/movie/hustlers){:target="_blank"} (the Fandango info is wrong). If you don't want to purchase the movie for $12.99-$14.99, the best thing to do might be to sign up for a fuboTV or Showtime etc subscription free trial, watch the movie, then cancel the subscription. My apologies for the hassle in trying to watch this movie.
 
 **I have removed the below reading from our schedule and we will no longer be discussing it in class. However, the reading is still in our course readings folder and I've kept this information here in case you are interested in reading it.**
 * Ayad Akhtar, *Homeland Elegies: A Novel* (2020), V. “Riaz; or, The Merchant of Debt” (GD)
