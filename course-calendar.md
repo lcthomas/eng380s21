@@ -145,7 +145,7 @@ Monday, April 19
 Wednesday, April 21
 * Claudia Rankine, *Citizen* (2014), VI-VII (pgs 81-end)
 
-Week 14
+### Week 14
 Monday, April 26
 * Final paper workshop: bring paper 2 with comments from me to class
 
